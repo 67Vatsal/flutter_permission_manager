@@ -1,5 +1,7 @@
 import 'package:permission_handler/permission_handler.dart';
-import 'permission_type.dart';
+
+import '../permisiion_manager_file.dart';
+
 
 class PermissionMapper {
   static Permission map(AppPermission permission) {

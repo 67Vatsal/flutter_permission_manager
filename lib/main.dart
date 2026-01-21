@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_permission_manager/permission_UI_state.dart';
-import 'package:flutter_permission_manager/permission_manager.dart';
-import 'package:flutter_permission_manager/permission_type.dart';
+import 'package:flutter_permission_manager/src/permission_UI_state.dart';
+import 'package:flutter_permission_manager/src/permission_manager.dart';
+import 'package:flutter_permission_manager/src/permission_type.dart';
 import 'package:permission_handler/permission_handler.dart';
 
 void main() {

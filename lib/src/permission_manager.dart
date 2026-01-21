@@ -1,6 +1,7 @@
+import 'package:flutter_permission_manager/src/permission_type.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'permission_mapper.dart';
-import 'permission_type.dart';
+
 
 class PermissionManager {
 
