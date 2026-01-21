@@ -1,5 +1,5 @@
 import 'package:permission_handler/permission_handler.dart';
-import '../permisiion_manager_file.dart';
+import '../permission_manager.dart';
 import 'permission_mapper.dart';
 
 
